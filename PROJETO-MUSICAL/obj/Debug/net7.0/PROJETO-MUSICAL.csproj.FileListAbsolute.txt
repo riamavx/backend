@@ -1,0 +1,15 @@
+C:\Users\riama\OneDrive\Área de Trabalho\ESTUDOS\backend\PROJETO-MUSICAL\bin\Debug\net7.0\PROJETO-MUSICAL.exe
+C:\Users\riama\OneDrive\Área de Trabalho\ESTUDOS\backend\PROJETO-MUSICAL\bin\Debug\net7.0\PROJETO-MUSICAL.deps.json
+C:\Users\riama\OneDrive\Área de Trabalho\ESTUDOS\backend\PROJETO-MUSICAL\bin\Debug\net7.0\PROJETO-MUSICAL.runtimeconfig.json
+C:\Users\riama\OneDrive\Área de Trabalho\ESTUDOS\backend\PROJETO-MUSICAL\bin\Debug\net7.0\PROJETO-MUSICAL.dll
+C:\Users\riama\OneDrive\Área de Trabalho\ESTUDOS\backend\PROJETO-MUSICAL\bin\Debug\net7.0\PROJETO-MUSICAL.pdb
+C:\Users\riama\OneDrive\Área de Trabalho\ESTUDOS\backend\PROJETO-MUSICAL\obj\Debug\net7.0\PROJETO-MUSICAL.csproj.AssemblyReference.cache
+C:\Users\riama\OneDrive\Área de Trabalho\ESTUDOS\backend\PROJETO-MUSICAL\obj\Debug\net7.0\PROJETO-MUSICAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riama\OneDrive\Área de Trabalho\ESTUDOS\backend\PROJETO-MUSICAL\obj\Debug\net7.0\PROJETO-MUSICAL.AssemblyInfoInputs.cache
+C:\Users\riama\OneDrive\Área de Trabalho\ESTUDOS\backend\PROJETO-MUSICAL\obj\Debug\net7.0\PROJETO-MUSICAL.AssemblyInfo.cs
+C:\Users\riama\OneDrive\Área de Trabalho\ESTUDOS\backend\PROJETO-MUSICAL\obj\Debug\net7.0\PROJETO-MUSICAL.csproj.CoreCompileInputs.cache
+C:\Users\riama\OneDrive\Área de Trabalho\ESTUDOS\backend\PROJETO-MUSICAL\obj\Debug\net7.0\PROJETO-MUSICAL.dll
+C:\Users\riama\OneDrive\Área de Trabalho\ESTUDOS\backend\PROJETO-MUSICAL\obj\Debug\net7.0\refint\PROJETO-MUSICAL.dll
+C:\Users\riama\OneDrive\Área de Trabalho\ESTUDOS\backend\PROJETO-MUSICAL\obj\Debug\net7.0\PROJETO-MUSICAL.pdb
+C:\Users\riama\OneDrive\Área de Trabalho\ESTUDOS\backend\PROJETO-MUSICAL\obj\Debug\net7.0\PROJETO-MUSICAL.genruntimeconfig.cache
+C:\Users\riama\OneDrive\Área de Trabalho\ESTUDOS\backend\PROJETO-MUSICAL\obj\Debug\net7.0\ref\PROJETO-MUSICAL.dll
